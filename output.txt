@@ -1,0 +1,87 @@
+			*****WELCOME TO CONNECT FOUR GAME*****
+
+			Please enter board size between 4 and 20. Size should be even.: 1			
+			Check your input again. Board size should be between 4 and 20. Size should be even.: 7	
+			Check your input again. Board size should be between 4 and 20. Size should be even.: 21			
+			Check your input again. Board size should be between 4 and 20. Size should be even.: 4
+			
+			Here is your board: 
+			A B C D 
+			. . . . 
+			. . . . 
+			. . . . 
+			. . . . 
+
+			Do you want to play Multiplayer or Solo? Press M for Multiplayer, press S for Solo.: a			
+			Check your input again. Press M for Multiplayer, press S for Solo: m
+
+			Player X, make your move: a
+			A B C D 
+			. . . . 
+			. . . . 
+			. . . . 
+			X . . . 
+
+			Player O, make your move: a		
+			A B C D 
+			. . . . 
+			. . . . 
+			O . . . 
+			X . . . 
+
+			Player X, make your move: a		
+			A B C D 
+			. . . . 
+			X . . . 
+			O . . . 
+			X . . . 
+
+			Player O, make your move: a		
+			A B C D 
+			O . . . 
+			X . . . 
+			O . . . 
+			X . . . 
+
+			Player X, make your move: a		
+			The column you chose is full. Please select another column.
+
+			Player X, make your move: g		
+			Your move is not valid. Please select another column.
+
+			Player X, make your move: b		
+			A B C D 
+			O . . . 
+			X . . . 
+			O . . . 
+			X X . . 
+
+			Player O, make your move: b		
+			A B C D 
+			O . . . 
+			X . . . 
+			O O . . 
+			X X . . 
+
+			Player X, make your move: c		
+			A B C D 
+			O . . . 
+			X . . . 
+			O O . . 
+			X X X . 
+
+			Player O, make your move: b		
+			A B C D 
+			O . . . 
+			X O . . 
+			O O . . 
+			X X X . 
+
+			Player X, make your move: d	
+			A B C D 
+			O . . . 
+			X O . . 
+			O O . . 
+			X X X X 
+
+			CONGRATZ! Player X won the game!
